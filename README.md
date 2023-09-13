@@ -1,11 +1,11 @@
-About trame-components
-======================
+About trame-components-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/trame-components-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/trame-components/
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/trame-components-feedstock/blob/main/LICENSE.txt)
 
 Summary: Core components for trame widgets
 
