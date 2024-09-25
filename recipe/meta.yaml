@@ -1,5 +1,5 @@
 {% set name = "trame-components" %}
-{% set version = "2.4.0" %}
+{% set version = "2.4.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/trame-components-{{ version }}.tar.gz
-  sha256: 8b6233eaf15b8c9d9e460465d148244f8448a776998eb8e2142df585041dab11
+  sha256: 598ea5ec19cb4ea206c1676edf03d13f5a013d72a946f8532350bbd3f9b3674a
 
 build:
   number: 0
